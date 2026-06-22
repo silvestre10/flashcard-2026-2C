@@ -27,3 +27,20 @@ h1 {
   color: #fff;
   font-size: 24px;
 }
+main {
+  flex: 1;
+}
+
+.cartao {
+    width: 260px;
+    height: 200px;
+}
+
+.cartao-imagem {
+    width: 100%;
+}
+footer {
+background-color: #7e3e1c;
+padding: 15px 25px;
+color: #fff;
+}
